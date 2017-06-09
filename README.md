@@ -1,5 +1,5 @@
 # Bezpieczna-aplikacja-internetowa
-Bezpieczna aplikacja z wykorzystaniem Apache2.
+Bezpieczna aplikacja z wykorzystaniem Apache2 - w trakcie realizacji.
 Celem projektu jest napisanie prostej aplikacji internetowej spełniającej wysokie standardy bezpieczeństwa.
 Wymagania:
 Napisz aplikację WWW realizującą uwierzytelnianie w oparciu o tajne hasło. Zwróć uwagę na:
